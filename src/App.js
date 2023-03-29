@@ -33,8 +33,7 @@ const App =()=> {
            <News setProgress={setProgress} key="health" cat="health" heading="Health"/> 
           </Route>
         </Switch>
-        </Router>
-          
+        </Router>   
       </div>
     )
   }
